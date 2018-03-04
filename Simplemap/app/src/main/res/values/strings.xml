@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Simplemap</string>
+    <string name="title_activity_maps">Map</string>
+    <string-array name="status">
+        <item>Good</item>
+        <item>Low on ammo</item>
+        <item>Shot</item>
+        <item>Need urgent help</item>
+        <item>KIA</item>
+    </string-array>
+</resources>
